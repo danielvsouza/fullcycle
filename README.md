@@ -1,2 +1,4 @@
-# fullcycle
-Artefatos criados do treinamento Full Cycle
+# Curso fullcycle
+
+Desafio Go pasta: **desafios/go**
+
