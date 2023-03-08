@@ -18,3 +18,4 @@ Na pasta mysql/script foi criado o arquivo: create-table.sql com o conteúdo:
 create table people(id int not null auto_increment, name varchar(255), primary key(id));
 Os arquivos do banco de dados foi mapeado para mysql/db 
 
+A pasta mysq/**db** foi incluída no gitignore para evitar subir para o repositório arquivos do banco de dados.
