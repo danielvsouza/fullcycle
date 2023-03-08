@@ -1,10 +1,16 @@
 # fullcycle
+
 ## Desafio Go
 
-Criação da imagem:
+###### Criação da imagem:
 
 docker build . -t dandan/fullcycle
 
-Executar
+
+###### Para executar
 
 docker run -ti --rm dandan/fullcycle
+
+
+###### Repositório da imagem no dockerhub
+https://hub.docker.com/r/dandan/fullcycle
